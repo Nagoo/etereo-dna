@@ -1,13 +1,13 @@
 ---
 title: "Hack Summit"
 prev_section: industries-that-we-avoid.html
-next_section: crisplets.html
+next_section: etereolets.html
 ---
 
-Crisp Hack Summit
+etéreo Hack Summit
 =================
 
-Crisp Hack Summit is a 2-day event where we meet up at a off-site location and hack on pet projects and similar.
+etéreo Hack Summit is a 2-day event where we meet up at a off-site location and hack on pet projects and similar.
 
 Hack Summit gives everyone an opportunity to:
 
@@ -15,10 +15,10 @@ Hack Summit gives everyone an opportunity to:
 -   hear about other experiences of techniques and tools
 -   try out ideas for products
 -   focus on a task for 2 days
--   get to know each other, and people who wish to join Crisp
+-   get to know each other, and people who wish to join etéreo
 -   flee family chores ;)
 
-Why is it called Crisp Hack Summit?
+Why is it called etéreo Hack Summit?
 -----------------------------------
 
 We like the combination of the slightly unserious "Hack" and the quite pretentious "Summit".

@@ -1,6 +1,6 @@
 ---
 title: Conflict handling
-prev_section: crisplets.html
+prev_section: etereolets.html
 next_section: contracts.html
 ---
 
@@ -11,7 +11,7 @@ Conflict is inevitable in any organization because, well, Humans :)
 
 The way we deal with conflict is really important - some conflicts are healthy and productive and drive improvement - other conflicts are ugly and political and suck the soul out of the culture. We obviously want more of the former and less of the latter!
 
-Conflict handling gets a bit tricky with organizations like Crisp, with everything bottom-up and no managers. We've done pretty OK so far, but we want to get better.
+Conflict handling gets a bit tricky with organizations like etéreo, with everything bottom-up and no managers. We've done pretty OK so far, but we want to get better.
 
 Inspired by the book [Reinventing Organizations](http://www.reinventingorganizations.com), we've learned that self-organization at scale really needs an explicit conflict handling strategy, a simple process that everyone needs to be bought into. So that's what we're experimenting with now.
 
@@ -28,7 +28,7 @@ Our conflict handling process (ongoing experiment!)
 
 *... if the conflict didn't get solved:*
 
-3. Moose-head meeting at Crisp ASAP with the involved parties.
+3. Moose-head meeting at etéreo ASAP with the involved parties.
 
 Gravel? Moose head? Huh?
 ------------------------
@@ -44,7 +44,7 @@ The purpose of our conflict handling process is to catch Gravel before it become
 How is this intended to be used?
 --------------------------------
 
-The policy lives in a google doc and has been "signed" by about 80% of the Crispers so far (as of Jan 2015)
+The policy lives in a google doc and has been "signed" by about 80% of the etéreotypes so far (as of Jan 2015)
 
 Signing the doc is a personal commitment - "I intend to follow this process". It also acts as a "permission" to hold each other accountable for following the process. That way we can help remind each other - "Hey Joe, I hear you complaining about Lisa. So are you going to bring it up with Lisa, or let it go?"
 
