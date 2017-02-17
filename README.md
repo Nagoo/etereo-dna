@@ -2,9 +2,9 @@
 ---
 # Crisp DNA - tech setup for the site
 
-Crisp DNA is a web site that describes how Crisp works and why. The source lives on github and is auto-published on [http://dna.crisp.se](http://dna.crisp.se) every time a change is pushed.
+Crisp DNA is a web site that describes how Crisp works and why. The source lives on github and is auto-published on [http://dna.etereo.io](http://dna.etereo.io) every time a change is pushed.
 
-Below are instructions for how to set up a local development environment. Useful for when you want to make many changes and test locally before pushing to github. See [How to clone](http://dna.crisp.se/docs/how-to-copy.html) for more options on how to clone the Crisp model.
+Below are instructions for how to set up a local development environment. Useful for when you want to make many changes and test locally before pushing to github. See [How to clone](http://dna.etereo.io/docs/how-to-copy.html) for more options on how to clone the Crisp model.
 
 
 ## 1. Install GIT
@@ -20,7 +20,7 @@ Tell git to download the crisp-dna source:
 
 You should now have the whole thing, including the README.md file that you are reading right now!
 
-The web site source files are under _docs, have a look! They are written using [textile](http://redcloth.org/textile) (a simpler format than html). When you push to github, it will automatically convert the pages to static html and build the site http://dna.crisp.se. 
+The web site source files are under _docs, have a look! They are written using [textile](http://redcloth.org/textile) (a simpler format than html). When you push to github, it will automatically convert the pages to static html and build the site http://dna.etereo.io. 
 
 ## 3. Install Jekyll and related tools
 
