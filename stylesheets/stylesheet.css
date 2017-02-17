@@ -489,6 +489,7 @@ header h1 {
 header h1 a:before {
   content: '';
   background-image: url(../images/logo-inverse.svg);
+  background-repeat: no-repeat;
   width: 200px;
   height: 1em;
   display: inline-flex;
