@@ -11,7 +11,7 @@ Our **main internal communication channels** are:
 
 -   [etéreo Unconference](unconference.html) twice per year.
 -   Pulse meetings (or mini-conferences). These happen about twice per year, in between the unconferences. Typically a half day or whole day with some kind of theme, like "how we make decisions" or "how we handle conflict" or "how we run courses".
--   Team mailing list - a single mailing list with everyone on it. We use simple [email conventions](email-conventions.html) to separate must-read stuff from general discussions, and the [Bun protocol](brownie-protocol.html) to route client inquiries to the right consultant.
+-   Team mailing list - a single mailing list with everyone on it. We use simple [email conventions](email-conventions.html) to separate must-read stuff from general discussions, and the [Brownie protocol](brownie-protocol.html) to route client inquiries to the right consultant.
 -   [Board meetings](board.html) every month.
 -   [Slack](http://www.slack.com) for chattier stuff (previously Skype)
 -   [Signup](https://github.com/etereo-io/signup) - a homegrown tool used for sending invites and keep track of who is coming to a meetup. We use it for things like keeping track of who is coming to the next unconference.
