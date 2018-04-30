@@ -57,7 +57,7 @@ Core structure and practices
 -   [Office team](office-team.html) - how do we handle admin and day-to-day operations?
 -   [Board of directors](board.html) - Spanish law requires that we have a BoD. So how does the BoD at etéreo work?
 -   [Our business](our-business.html) - what type of work we do
--   [Visions](visions.html) - How to you get a bunch of autonomous consultants to agree on a vision? Answer: have several :o)
+-   [Visions](visions.html) - How do you get a bunch of autonomous consultants to agree on a vision? Answer: have several :o)
 -   [Sales](sales.html) - how do we actually sell consultants?
 -   [etéreo unconference](unconference.html) - how our bi-annual unconference works
 
